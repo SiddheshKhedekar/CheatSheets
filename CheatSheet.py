@@ -14,7 +14,7 @@ This is a multi-line comment
 
 # A variable is a place to store values
 # Its name is like a label for that value
-name = "Derek"
+name = "Siddhesh"
 print(name)
 
 # A variable name can contain letters, numbers, or _
@@ -44,7 +44,7 @@ print("(1 + 2 - 3) * 2 =", (1 + 2 - 3) * 2)
 
 # A string is a string of characters surrounded by " or '
 # If you must use a " or ' between the same quote escape it with \
-quote = "\"Always remember your unique,"
+quote = "\"Always remember you are unique,"
 
 # A multi-line quote
 multi_line_quote = ''' just
@@ -362,7 +362,7 @@ text_in_file = test_file.read()
 print(text_in_file)
 
 # Delete the file
-os.remove("test.txt")
+#os.remove("test.txt")
 
 
 # CLASSES AND OBJECTS -------------
